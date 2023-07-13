@@ -5,9 +5,9 @@
 <p>SQL Script</p>
 
 <h2>Tools Used:</h2>
-<p>Microsoft SQL Server</p>
-<p>T-SQL</p>
-<p>Viso</p>
+<p>&bull; Microsoft SQL Server</p>
+<p>&bull; T-SQL</p>
+<p>&bull; Viso</p>
 
 <hr>
 
