@@ -1,8 +1,8 @@
 <h1>Course: Database Management </h1>
 
 <h2>Repo contains:</h2>
-<p>Assignment: Logical Database, Physical Database, SQL Problems and Solutions, Relational Mapping Diagram</p>
-<p>SQL Script</p>
+<p>&bull; Assignment: Logical Database, Physical Database, SQL Problems and Solutions, Relational Mapping Diagram</p>
+<p>&bull; SQL Script</p>
 
 <h2>Tools Used:</h2>
 <p>&bull; Microsoft SQL Server</p>
